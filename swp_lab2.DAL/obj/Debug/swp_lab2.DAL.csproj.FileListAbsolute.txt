@@ -1,0 +1,58 @@
+C:\Users\Andrew\Desktop\lab2\swp_lab2.DAL\bin\Debug\swp_lab2.DAL.dll.config
+C:\Users\Andrew\Desktop\lab2\swp_lab2.DAL\bin\Debug\swp_lab2.DAL.dll
+C:\Users\Andrew\Desktop\lab2\swp_lab2.DAL\bin\Debug\swp_lab2.DAL.pdb
+C:\Users\Andrew\Desktop\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Andrew\Desktop\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrew\Desktop\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Andrew\Desktop\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrew\Desktop\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.csproj.CopyComplete
+C:\Users\Andrew\Desktop\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.dll
+C:\Users\Andrew\Desktop\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.pdb
+E:\labs\swp\lab2\swp_lab2.DAL\bin\Debug\swp_lab2.DAL.dll.config
+E:\labs\swp\lab2\swp_lab2.DAL\bin\Debug\swp_lab2.DAL.dll
+E:\labs\swp\lab2\swp_lab2.DAL\bin\Debug\swp_lab2.DAL.pdb
+E:\labs\swp\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.dll
+E:\labs\swp\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\labs\swp\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.xml
+E:\labs\swp\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\labs\swp\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.csprojAssemblyReference.cache
+E:\labs\swp\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.csproj.CoreCompileInputs.cache
+E:\labs\swp\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.csproj.CopyComplete
+E:\labs\swp\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.dll
+E:\labs\swp\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.pdb
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_lab2.DAL\bin\Debug\swp_lab2.DAL.dll.config
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_lab2.DAL\bin\Debug\swp_lab2.DAL.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_lab2.DAL\bin\Debug\swp_lab2.DAL.pdb
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.csprojResolveAssemblyReference.cache
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.pdb
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_lab2.DAL\bin\Debug\swp_lab2.DAL.dll.config
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_lab2.DAL\bin\Debug\swp_lab2.DAL.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_lab2.DAL\bin\Debug\swp_lab2.DAL.pdb
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.csprojAssemblyReference.cache
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.csproj.CoreCompileInputs.cache
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.csproj.CopyComplete
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.pdb
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_lab2.DAL\bin\Debug\swp_lab2.DAL.dll.config
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_lab2.DAL\bin\Debug\swp_lab2.DAL.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_lab2.DAL\bin\Debug\swp_lab2.DAL.pdb
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.SqlServer.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_lab2.DAL\bin\Debug\EntityFramework.SqlServer.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.csproj.AssemblyReference.cache
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.csproj.CoreCompileInputs.cache
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.csproj.CopyComplete
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_lab2.DAL\obj\Debug\swp_lab2.DAL.pdb

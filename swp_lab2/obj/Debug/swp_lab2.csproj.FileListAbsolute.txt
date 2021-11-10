@@ -1,0 +1,12 @@
+C:\Users\Andrew\Desktop\lab2\swp_lab2\bin\Debug\swp_lab2.exe.config
+C:\Users\Andrew\Desktop\lab2\swp_lab2\bin\Debug\swp_lab2.exe
+C:\Users\Andrew\Desktop\lab2\swp_lab2\bin\Debug\swp_lab2.pdb
+C:\Users\Andrew\Desktop\lab2\swp_lab2\bin\Debug\EntityFramework.dll
+C:\Users\Andrew\Desktop\lab2\swp_lab2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrew\Desktop\lab2\swp_lab2\bin\Debug\EntityFramework.xml
+C:\Users\Andrew\Desktop\lab2\swp_lab2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrew\Desktop\lab2\swp_lab2\obj\Debug\swp_lab2.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\lab2\swp_lab2\obj\Debug\swp_lab2.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\lab2\swp_lab2\obj\Debug\swp_lab2.csproj.CopyComplete
+C:\Users\Andrew\Desktop\lab2\swp_lab2\obj\Debug\swp_lab2.exe
+C:\Users\Andrew\Desktop\lab2\swp_lab2\obj\Debug\swp_lab2.pdb

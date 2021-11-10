@@ -1,0 +1,25 @@
+﻿@model IEnumerable<swp_lab2.DAL.Models.Book>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Admin Page</h2>
+
+<hr />
+
+
+<p>
+    @Html.ActionLink("Books", "Index", "AdminBooks",
+    null,
+    new { @class = "btn btn-primary btn-lg" })
+
+    @Html.ActionLink("Sages", "Index", "AdminSages",
+null,
+new { @class = "btn btn-primary btn-lg" })
+
+    @Html.ActionLink("Orders", "Index", "Orders",
+null,
+new { @class = "btn btn-primary btn-lg" })
+</p>
+

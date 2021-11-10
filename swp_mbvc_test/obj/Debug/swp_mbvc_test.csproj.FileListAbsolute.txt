@@ -1,0 +1,673 @@
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\ApplicationInsights.config
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\swp_mbvc_test.dll.config
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\swp_mbvc_test.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\swp_mbvc_test.pdb
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\csc.exe
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\csc.exe.config
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\csc.rsp
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\csi.exe
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\csi.exe.config
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\csi.rsp
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.AppContext.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Console.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.IO.Compression.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Security.Claims.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.ValueTuple.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\vbc.exe
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\vbc.exe.config
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\vbc.rsp
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Antlr3.Runtime.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Autofac.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Autofac.Integration.Mvc.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\EntityFramework.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\EntityFramework.SqlServer.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AI.Web.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Newtonsoft.Json.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Ninject.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Ninject.Web.Common.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Ninject.Web.Mvc.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Owin.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\swp_lab2.DAL.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Web.Helpers.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Web.Mvc.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Web.Optimization.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Web.Razor.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Web.WebPages.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\WebGrease.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\swp_lab2.DAL.pdb
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\swp_lab2.DAL.dll.config
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Autofac.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Autofac.Integration.Mvc.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Ninject.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Ninject.Web.Common.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Ninject.Web.Mvc.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Web.Helpers.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Web.Mvc.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Web.Optimization.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Web.Razor.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Web.WebPages.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Newtonsoft.Json.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Antlr3.Runtime.pdb
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\EntityFramework.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\EntityFramework.SqlServer.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.AI.Web.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.csproj.CopyComplete
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.dll
+C:\Users\Andrew\Desktop\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.pdb
+E:\labs\swp\lab2\swp_mbvc_test\bin\ApplicationInsights.config
+E:\labs\swp\lab2\swp_mbvc_test\bin\swp_mbvc_test.dll.config
+E:\labs\swp\lab2\swp_mbvc_test\bin\swp_mbvc_test.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\swp_mbvc_test.pdb
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\csc.exe
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\csc.exe.config
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\csc.rsp
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\csi.exe
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\csi.exe.config
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\csi.rsp
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\Microsoft.Managed.Core.targets
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.AppContext.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Collections.Immutable.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Console.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.IO.Compression.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.IO.FileSystem.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.IO.Pipes.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Reflection.Metadata.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Security.AccessControl.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Security.Claims.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Security.Principal.Windows.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.ValueTuple.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Xml.XmlDocument.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Xml.XPath.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\vbc.exe
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\vbc.exe.config
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\vbc.rsp
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\VBCSCompiler.exe
+E:\labs\swp\lab2\swp_mbvc_test\bin\roslyn\VBCSCompiler.exe.config
+E:\labs\swp\lab2\swp_mbvc_test\bin\Antlr3.Runtime.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Autofac.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Autofac.Integration.Mvc.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\EntityFramework.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\EntityFramework.SqlServer.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AI.Agent.Intercept.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AI.DependencyCollector.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AI.Web.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AI.WindowsServer.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.ApplicationInsights.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Core.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Cookies.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Facebook.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Google.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.OAuth.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Twitter.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Web.Infrastructure.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Newtonsoft.Json.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Ninject.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Ninject.Web.Common.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Ninject.Web.Common.WebHost.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Ninject.Web.Mvc.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\Owin.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\swp_lab2.DAL.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Diagnostics.DiagnosticSource.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Web.Helpers.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Web.Mvc.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Web.Optimization.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Web.Razor.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Web.WebPages.Deployment.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Web.WebPages.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Web.WebPages.Razor.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\WebGrease.dll
+E:\labs\swp\lab2\swp_mbvc_test\bin\swp_lab2.DAL.pdb
+E:\labs\swp\lab2\swp_mbvc_test\bin\swp_lab2.DAL.dll.config
+E:\labs\swp\lab2\swp_mbvc_test\bin\Autofac.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Autofac.Integration.Mvc.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Ninject.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Ninject.Web.Common.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Ninject.Web.Common.WebHost.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Ninject.Web.Mvc.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Web.Helpers.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Web.Mvc.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Web.Optimization.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Web.Razor.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Web.WebPages.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Web.WebPages.Deployment.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Web.WebPages.Razor.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Newtonsoft.Json.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Antlr3.Runtime.pdb
+E:\labs\swp\lab2\swp_mbvc_test\bin\EntityFramework.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\EntityFramework.SqlServer.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Core.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Facebook.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Cookies.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Google.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Twitter.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.OAuth.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\System.Diagnostics.DiagnosticSource.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AI.DependencyCollector.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AI.WindowsServer.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.AI.Web.xml
+E:\labs\swp\lab2\swp_mbvc_test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\labs\swp\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.csprojAssemblyReference.cache
+E:\labs\swp\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.csproj.CoreCompileInputs.cache
+E:\labs\swp\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.csproj.CopyComplete
+E:\labs\swp\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.dll
+E:\labs\swp\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.pdb
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\ApplicationInsights.config
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\swp_mbvc_test.dll.config
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\swp_mbvc_test.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\swp_mbvc_test.pdb
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\csc.exe
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\csc.exe.config
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\csc.rsp
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\csi.exe
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\csi.exe.config
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\csi.rsp
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.AppContext.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Collections.Immutable.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Console.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.IO.Compression.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.IO.FileSystem.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.IO.Pipes.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Reflection.Metadata.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Security.AccessControl.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Security.Claims.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.ValueTuple.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Xml.XPath.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\vbc.exe
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\vbc.exe.config
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\vbc.rsp
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\VBCSCompiler.exe
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\roslyn\VBCSCompiler.exe.config
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Antlr3.Runtime.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Autofac.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Autofac.Integration.Mvc.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\EntityFramework.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\EntityFramework.SqlServer.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AI.DependencyCollector.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AI.Web.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AI.WindowsServer.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.ApplicationInsights.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Google.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Web.Infrastructure.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Newtonsoft.Json.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Ninject.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Ninject.Web.Common.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Ninject.Web.Common.WebHost.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Ninject.Web.Mvc.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Owin.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\swp_lab2.DAL.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Web.Helpers.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Web.Mvc.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Web.Optimization.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Web.Razor.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Web.WebPages.Deployment.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Web.WebPages.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Web.WebPages.Razor.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\WebGrease.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\swp_lab2.DAL.pdb
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\swp_lab2.DAL.dll.config
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Autofac.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Autofac.Integration.Mvc.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Ninject.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Ninject.Web.Common.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Ninject.Web.Common.WebHost.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Ninject.Web.Mvc.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Web.Helpers.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Web.Mvc.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Web.Optimization.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Web.Razor.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Web.WebPages.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Web.WebPages.Deployment.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Web.WebPages.Razor.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Newtonsoft.Json.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Antlr3.Runtime.pdb
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\EntityFramework.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\EntityFramework.SqlServer.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Google.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AI.DependencyCollector.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AI.WindowsServer.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.AI.Web.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.csprojResolveAssemblyReference.cache
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.dll
+D:\Навчання\5 курс\Серверне Веб-програмування\Новая папка (2)\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.pdb
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\ApplicationInsights.config
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\swp_mbvc_test.dll.config
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\swp_mbvc_test.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\swp_mbvc_test.pdb
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\csc.exe
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\csc.exe.config
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\csc.rsp
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\csi.exe
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\csi.exe.config
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\csi.rsp
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\Microsoft.Managed.Core.targets
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.AppContext.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Collections.Immutable.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Console.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.IO.Compression.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.IO.FileSystem.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.IO.Pipes.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Reflection.Metadata.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Security.AccessControl.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Security.Claims.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Security.Principal.Windows.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.ValueTuple.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Xml.XmlDocument.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Xml.XPath.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\vbc.exe
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\vbc.exe.config
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\vbc.rsp
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\VBCSCompiler.exe
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\roslyn\VBCSCompiler.exe.config
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Antlr3.Runtime.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Autofac.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Autofac.Integration.Mvc.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\EntityFramework.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\EntityFramework.SqlServer.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AI.Agent.Intercept.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AI.DependencyCollector.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AI.Web.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AI.WindowsServer.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.ApplicationInsights.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Core.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Cookies.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Facebook.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Google.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.OAuth.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Twitter.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Web.Infrastructure.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Newtonsoft.Json.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Ninject.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Ninject.Web.Common.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Ninject.Web.Common.WebHost.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Ninject.Web.Mvc.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Owin.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\swp_lab2.DAL.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Diagnostics.DiagnosticSource.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Web.Helpers.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Web.Mvc.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Web.Optimization.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Web.Razor.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Web.WebPages.Deployment.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Web.WebPages.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Web.WebPages.Razor.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\WebGrease.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\swp_lab2.DAL.pdb
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\swp_lab2.DAL.dll.config
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Autofac.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Autofac.Integration.Mvc.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Ninject.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Ninject.Web.Common.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Ninject.Web.Common.WebHost.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Ninject.Web.Mvc.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Web.Helpers.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Web.Mvc.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Web.Optimization.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Web.Razor.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Web.WebPages.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Web.WebPages.Deployment.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Web.WebPages.Razor.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Newtonsoft.Json.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Antlr3.Runtime.pdb
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\EntityFramework.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\EntityFramework.SqlServer.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Core.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Facebook.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Cookies.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Google.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Twitter.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.OAuth.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\System.Diagnostics.DiagnosticSource.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AI.DependencyCollector.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AI.WindowsServer.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.AI.Web.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.csprojAssemblyReference.cache
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.csproj.CoreCompileInputs.cache
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.csproj.CopyComplete
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.dll
+D:\5_COURSE\СервернеWeb\LABS\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.pdb
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\ApplicationInsights.config
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\swp_mbvc_test.dll.config
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\swp_mbvc_test.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\swp_mbvc_test.pdb
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\csc.exe
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\csc.exe.config
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\csc.rsp
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\csi.exe
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\csi.exe.config
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\csi.rsp
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\Microsoft.CSharp.Core.targets
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\Microsoft.Managed.Core.targets
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.AppContext.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Collections.Immutable.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Console.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Diagnostics.StackTrace.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.IO.Compression.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.IO.FileSystem.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.IO.Pipes.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Reflection.Metadata.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Security.AccessControl.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Security.Claims.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Security.Principal.Windows.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Text.Encoding.CodePages.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.ValueTuple.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Xml.ReaderWriter.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Xml.XmlDocument.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Xml.XPath.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\System.Xml.XPath.XDocument.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\vbc.exe
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\vbc.exe.config
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\vbc.rsp
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\VBCSCompiler.exe
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\roslyn\VBCSCompiler.exe.config
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Antlr3.Runtime.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Autofac.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Autofac.Integration.Mvc.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\EntityFramework.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\EntityFramework.SqlServer.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AI.Agent.Intercept.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AI.DependencyCollector.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AI.PerfCounterCollector.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AI.Web.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AI.WindowsServer.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.ApplicationInsights.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Core.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Owin.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Host.SystemWeb.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Cookies.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Facebook.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Google.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.OAuth.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Twitter.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Web.Infrastructure.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Newtonsoft.Json.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Ninject.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Ninject.Web.Common.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Ninject.Web.Common.WebHost.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Ninject.Web.Mvc.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Owin.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\swp_lab2.DAL.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Diagnostics.DiagnosticSource.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Web.Helpers.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Web.Mvc.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Web.Optimization.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Web.Razor.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Web.WebPages.Deployment.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Web.WebPages.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Web.WebPages.Razor.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\WebGrease.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\swp_lab2.DAL.pdb
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\swp_lab2.DAL.dll.config
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Autofac.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Autofac.Integration.Mvc.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Ninject.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Ninject.Web.Common.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Ninject.Web.Common.WebHost.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Ninject.Web.Mvc.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Web.Helpers.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Web.Mvc.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Web.Optimization.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Web.Razor.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Web.WebPages.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Web.WebPages.Deployment.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Web.WebPages.Razor.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Newtonsoft.Json.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Antlr3.Runtime.pdb
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\EntityFramework.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\EntityFramework.SqlServer.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Core.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.Owin.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Host.SystemWeb.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Facebook.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Cookies.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Google.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.Twitter.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.Owin.Security.OAuth.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\System.Diagnostics.DiagnosticSource.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AI.DependencyCollector.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AI.WindowsServer.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.AI.Web.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.csproj.AssemblyReference.cache
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.csproj.CoreCompileInputs.cache
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.csproj.CopyComplete
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.dll
+O:\Andrii\навчання\9 семестр\серверне\lab2\lab2\swp_mbvc_test\obj\Debug\swp_mbvc_test.pdb
